@@ -13,7 +13,7 @@ This is a Blog's api created by Prisma to be a simple database.
 npm install
 ```
 
-Migrate example data
+## Migrate example data
 
 ```
 npx prisma migrate dev --name init
